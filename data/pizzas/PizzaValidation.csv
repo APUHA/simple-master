@@ -1,0 +1,5 @@
+Type,Ingredients,Size,Cheeze,IsResultDisplayed
+Create your own,Bacon;Ham;Pepperoni;Mozzarella;Green pepper,30 cm,Double,true
+Americana,Bacon;Ham;Pepperoni;Mozzarella,36 cm,Double,true
+Carbonara,Bacon;Ham;Mozzarella;Onion;Mashrooms;Oregano,22 cm,Standard,true
+Veggie,Mozzarella;Onion;Green pepper;Mashrooms;Tomatoes;Olives,30 cm,Double,true
